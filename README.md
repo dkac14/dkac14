@@ -11,19 +11,18 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkac14&show_icons=true&theme=tokyonight&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkac14&theme=tokyonight&hide_border=true" width="49%">
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkac14&layout=compact&theme=tokyonight" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkac14&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkac14&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkac14&theme=tokyonight&utcOffset=8" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkac14&theme=tokyonight" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkac14&theme=tokyonight" width="49%">
-</p>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkac14&theme=tokyonight" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkac14&theme=tokyonight" width="100%">
+</p>
 
 ---
 
