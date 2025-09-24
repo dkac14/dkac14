@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dkac14.dkac14">
 
-# ✨ Hey, I'm Doménica Amores ✨  
+# ✨ Hey, I'm Domenica Amores ✨  
 
 🎓 Student at **ESPOL** (Escuela Superior Politécnica del Litoral).  
 💻 Passionate about **software development** and continuous learning.  
