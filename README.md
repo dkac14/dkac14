@@ -3,6 +3,7 @@
 # ✨ Hey, I'm Domenica Amores ✨  
 
 🎓 **Computer Science** | **Student** at Escuela Superior Politécnica del Litoral (ESPOL)
+
 💻 Passionate about **software development** and continuous learning.  
 🚀 Currently strengthening my skills in **backend, databases, and web development**.  
 
