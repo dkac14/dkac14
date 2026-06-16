@@ -38,19 +38,79 @@ I am a Computer Science student at ESPOL focused on learning and applying softwa
 
 ## 🚀 Projects  
 
-### 1. Project Name: Web Portfolio  
+### 1. Computronic Dashboard
 
 **Description:**  
-A personal web portfolio created to present academic information, technical skills, and software development projects in a clean and organized way.
+A full-stack dashboard created to manage and visualize information through a web interface connected to a backend API.
+
+**Technologies used:**  
+React, JavaScript, HTML, CSS, Python, FastAPI, SQLAlchemy, MySQL
+
+**What I learned:**  
+I practiced building a full-stack application, connecting a frontend with a backend API, managing database models, and organizing a project with separate frontend and backend folders.
+
+**Repository:**  
+[View repository](https://github.com/dkac14/ComputronicDashboard)
+
+
+### 2. Interactive Academic Chatbot
+
+**Description:**  
+An academic virtual assistant for Telegram designed to answer frequently asked questions, manage academic calendar information, and collect user feedback.
+
+**Technologies used:**  
+n8n, Telegram Bot API, MongoDB, Web Scraping, Cron, JSON
+
+**What I learned:**  
+I learned how to automate workflows, connect external services, manage FAQ data with a database, and design a chatbot that supports student communication.
+
+**Repository:**  
+[View repository](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
+
+
+### 3. SpaceApps Computronic
+
+**Description:**  
+An AI-powered interactive dashboard developed for the NASA Space Apps Challenge to explore, summarize, and visualize scientific publications related to biological experiments in space.
+
+**Technologies used:**  
+React, TypeScript, Vite, Tailwind CSS, Python, FastAPI, OpenAI API
+
+**What I learned:**  
+I practiced integrating artificial intelligence into a web application, working with scientific data, building frontend components, and connecting them to a Python backend.
+
+**Repository:**  
+[View repository](https://github.com/dkac14/SpaceApps_Computronic)
+
+
+### 4. EcoShieldEC
+
+**Description:**  
+A sustainability-focused project developed by the Computronic group for Space Hack 4 for Sustainability, organized with a mobile application and a backend service.
+
+**Technologies used:**  
+Android, Gradle, Python, FastAPI, Uvicorn, Pydantic
+
+**What I learned:**  
+I learned how to structure a project with both mobile and backend components, work with API services, and develop a solution focused on sustainability and environmental impact.
+
+**Repository:**  
+[View repository](https://github.com/matiasnunezg/SH4S-Computronic)
+
+
+### 5. Project Name: Digital Footprint Reveal
+
+**Description:**  
+A web application that displays browser and device metadata to show how much information a website can access from a user's browser.
 
 **Technologies used:**  
 HTML, CSS, JavaScript
 
 **What I learned:**  
-I practiced the structure of web pages, styling with CSS, responsive design principles, and basic interactivity using JavaScript.
+I learned how to use browser APIs, read user-agent information, detect device data, and create an interactive interface that raises awareness about digital privacy.
 
 **Repository:**  
-[View repository](https://github.com/dkac14/REPOSITORY-NAME)
+[View repository](https://github.com/dkac14/digital-footprint-reveal)
 
 
 
