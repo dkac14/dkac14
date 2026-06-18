@@ -98,7 +98,7 @@ I learned how to structure a project with both mobile and backend components, wo
 [View repository](https://github.com/matiasnunezg/SH4S-Computronic)
 
 
-### 5. Project Name: Digital Footprint Reveal
+### 5. Digital Footprint Reveal
 
 **Description:**  
 A web application that displays browser and device metadata to show how much information a website can access from a user's browser.
@@ -126,9 +126,27 @@ I learned how to use browser APIs, read user-agent information, detect device da
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+During the course and through my academic projects, I learned and practiced several technologies used in frontend development, backend development, databases, automation, and deployment.
+
+| Category | Technologies | How I used them |
+|---|---|---|
+| Frontend Development | HTML, CSS, JavaScript | I used these technologies to build the structure, style, and interactivity of web pages, especially in projects such as Digital Footprint Reveal. |
+| Modern Frontend | React, TypeScript, Vite | I used React to create reusable components, TypeScript to improve code structure and type safety, and Vite to work with a faster development environment in projects such as SpaceApps Computronic. |
+| Styling Frameworks | Tailwind CSS | I used Tailwind CSS to design responsive and organized interfaces using utility classes, mainly in dashboard and web application projects. |
+| Backend Development | Python, FastAPI, Uvicorn | I used Python and FastAPI to create backend services and APIs that connect the frontend with data and application logic, as in Computronic Dashboard, SpaceApps Computronic, and EcoShieldEC. |
+| Databases | MySQL, SQLAlchemy, MongoDB | I used MySQL and SQLAlchemy to manage relational data in backend projects. I also used MongoDB to store flexible data for the academic chatbot. |
+| Automation and APIs | n8n, Telegram Bot API, OpenAI API, JSON, Cron | I used these tools to automate workflows, connect external services, manage scheduled tasks, and integrate AI-based features into projects. |
+| Development Tools | Git, GitHub, GitHub Pages | I used Git and GitHub to version my projects, organize repositories, and publish my portfolio using GitHub Pages. |
+| Academic Programming | Java, C | I used Java and C in academic practice to strengthen programming logic, algorithms, data handling, and problem-solving skills. |
+
 
 ## 📊 GitHub Stats  
 
